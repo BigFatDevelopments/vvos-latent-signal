@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "product": "vvos-vcef",
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-09",
+    "title": "First light",
+    "summary": "The first public release of VibeVoidOS and Vibe Code Engineering: Foundations.",
+    "added": [
+      "The VibeVoidOS platform: Immersive Reader, Course Terminal, AI Workspace, Colorization and The Relay",
+      "Vibe Code Engineering: Foundations — ten modules, from your first script to your own dev agent"
+    ],
+    "changed": [],
+    "fixed": []
+  },
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-09",
+      "title": "First light",
+      "summary": "The first public release of VibeVoidOS and Vibe Code Engineering: Foundations.",
+      "added": [
+        "The VibeVoidOS platform: Immersive Reader, Course Terminal, AI Workspace, Colorization and The Relay",
+        "Vibe Code Engineering: Foundations — ten modules, from your first script to your own dev agent"
+      ],
+      "changed": [],
+      "fixed": []
+    }
+  ],
+  "transmissions": []
+}
